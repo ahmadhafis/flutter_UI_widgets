@@ -15,12 +15,12 @@ class BeritaUtama extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Image.network(
-              "https://images.daznservices.com/di/library/GOAL/a1/3c/erling-haaland-liam-delap-harry-kane_1766tzptftglu1fgjhkruptedv.jpeg?quality=60&w=800"),
+              "https://cdns.klimg.com/bola.net/library/upload/21/2018/08/diego-costa_1f8df76.jpg"),
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Center(
               child: Text(
-                "Liam Delap Bisa Jadi Solusi No.9 Manchester City",
+                "COSTA MENDEKAT KE PALMEIRA",
                 style: TextStyle(fontWeight: FontWeight.w600, fontSize: 20),
               ),
             ),
